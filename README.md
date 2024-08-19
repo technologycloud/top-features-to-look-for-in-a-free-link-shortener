@@ -13,7 +13,7 @@ For those managing large volumes of links, the ability to shorten multiple URLs 
 ## 2. **Customization Options**
 
 ### Custom Branded Links
-Branding plays a crucial role in establishing trust and recognition among your audience. Free link shorteners that offer the ability to create custom-branded links allow you to reinforce your brand identity. For example, instead of using a generic short domain like "bit.ly," you could use your own domain, such as "yourbrand.co." Custom branded links are especially valuable for businesses looking to maintain a consistent online presence.
+Branding plays a crucial role in establishing trust and recognition among your audience. Free link shorteners that offer the ability to create custom-branded links allow you to reinforce your brand identity. For example, instead of using a generic short domain like "sw.run" you could use your own domain, such as "yourbrand.co." Custom branded links are especially valuable for businesses looking to maintain a consistent online presence.
 
 ### Editable Slug
 An editable slug is another key feature to consider. The slug is the part of the shortened URL that appears after the domain (e.g., yourbrand.co/offer). Being able to customize the slug allows you to create memorable, descriptive links that are easier for your audience to understand and recall.
